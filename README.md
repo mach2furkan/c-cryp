@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhK8ErH3mZROg/giphy.gif" width="50"> C-CRYP: Advanced Cryptographic Toolkit
 
-![Header Animation]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif](https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg))
+![Header Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 ## 🚀 Table of Contents
 - [Cryptographic Visualizations](#-cryptographic-visualizations)
