@@ -1,3 +1,4 @@
+//this   is just for the edu purpose not for commercial 
 #include <iostream>
 #include <cmath>
 #include <string>
